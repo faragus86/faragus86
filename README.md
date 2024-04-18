@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I recently discovered the world of web development, for now I'm learning and I hope to improve over time.
 
 <!--
 **faragus86/faragus86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
